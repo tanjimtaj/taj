@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+   font-family:  sans-serif;
+}
+.nvbar{
+  position:  static;
+  top: 0;
+  z-index: 0;
+}
+.navbar{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0!important;
+}
+.navbar-brand img{
+  height: 70px;
+  width: auto;
+  padding-left: 20px;
+}
+.navbar-nav  li{
+    padding: 0 10px;
+}
+.navbar-nav  li a{
+  color: #fff!important;
+  float: right;
+  font-weight: 600;
+  text-align: left;
+}
+.navbar-toggler{
+  outline: none!important;
+}
+.mldo{
+  padding-left: 50px;
+}
+
+/*---------------banner section------------------*/
+
+#banner{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+  padding-top: 30%;
+}
+.title{
+  font-size: 20px;
+  font-weight: 600pc;
+  margin-top: 100px;
+}
+.ti2{
+  font-size: 20px;
+}
+#banner a{
+  color: white;
+  text-decoration: none;
+}
+.img img{
+   height:700px;
+   width: auto;
+   float: left;
+}
+body{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+.mldo img{
+  height: 600px;
+  width: auto;
+  padding-left: 20px;
+  float:  right;
+}
+.card-img-top{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
